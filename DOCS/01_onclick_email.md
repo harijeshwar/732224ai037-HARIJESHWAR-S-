@@ -1,0 +1,3 @@
+- step 1 : open chrome
+- step 2 :go to n8n
+- 
