@@ -1,0 +1,4 @@
+-step 1 : create a workflow 
+-step 2 : add a manual trigger 
+-step 3 : add gmail to send to the user
+-step 4 : execute the workflow 
