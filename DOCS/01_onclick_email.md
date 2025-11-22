@@ -1,4 +1,5 @@
--step 1 : create a workflow 
--step 2 : add a manual trigger 
--step 3 : add gmail to send to the user
--step 4 : execute the workflow 
+- step 1 : create a workflow 
+- step 2 : add a manual trigger 
+- step 3 : add gmail to send to the user
+- step 4 : execute the workflow 
+- <img width="993" height="669" alt="n8n3" src="https://github.com/user-attachments/assets/45787ec8-97f7-4cbb-ba27-942f8fe0d658" />
