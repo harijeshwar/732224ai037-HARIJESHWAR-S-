@@ -1,0 +1,5 @@
+- step 1 : create a workflow 
+- step 2 : add a Schedule trigger 
+- step 3 : add gmail to send to the user
+- step 4 : execute the workflow
+- <img width="1114" height="608" alt="n8n4" src="https://github.com/user-attachments/assets/c70d6c91-7111-425d-8c07-8d504a348c4c" />
